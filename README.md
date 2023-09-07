@@ -6,7 +6,9 @@
 
 I'm a passionate and driven individual with a strong desire to break into the world of Python development. My journey began when I discovered Python's simplicity, versatility, and the endless possibilities it offers. Since then, I've been on a mission to expand my knowledge and become a skilled Junior Python Developer.
 
-🛠️ <h3>Main Tech Stack</h3>
+<details>
+  <summary>Click for more</summary>
+  🛠️ <h3>Main Tech Stack</h3>
 
 <b>Python:</b> My programming language of choice, and I'm well-versed in common libraries like NumPy, pandas, PyQT6 and Requests. Python's readability and extensive libraries make it a top choice for a wide range of projects.
 
@@ -43,6 +45,9 @@ I have an innate talent for tackling complex problems, making them solvable, and
 🚀 <h3>Let's Make It Happen</h3>
 
 I'm determined to make a real impact as a Junior Python Developer. If you're looking for someone who's dedicated, adaptable, and excels under pressure, let's connect and discuss how I can contribute to your team's success.
+</details>
+
+
 
 
 <!--
