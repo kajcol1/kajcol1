@@ -8,7 +8,7 @@ I'm a passionate and driven individual with a strong desire to break into the wo
 
 🛠️ Tech Stack
 
-Python: My programming language of choice, and I'm well-versed in common libraries like NumPy, pandas, and requests. Python's readability and extensive libraries make it a top choice for a wide range of projects.
+<b>Python:</b> My programming language of choice, and I'm well-versed in common libraries like NumPy, pandas, and requests. Python's readability and extensive libraries make it a top choice for a wide range of projects.
 
 Django Framework: I've dived into web development with Django, crafting web applications that are robust and maintainable. From building RESTful APIs to creating user-friendly interfaces, Django has been a valuable tool in my arsenal.
 
