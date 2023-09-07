@@ -1,8 +1,8 @@
- <h3>👋 Hey there! I'm Kajetan</h3>
+<h3>👋 Hey there! I'm Kajetan</h3>
 
 👨‍💻 <b>Aspiring Junior Python Developer | AWS Certified Cloud Practitioner (CLF-C01) - 2021 | Open to Job Opportunities</b>
 
- <h3>🌟 About Me</h3>
+<h3>🌟 About Me</h3>
 
 I'm a passionate and driven individual with a strong desire to break into the world of Python development. My journey began when I discovered Python's simplicity, versatility, and the endless possibilities it offers. Since then, I've been on a mission to expand my knowledge and become a skilled Junior Python Developer.
 
