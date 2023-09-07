@@ -2,7 +2,7 @@
 
 👨‍💻 Aspiring Junior Python Developer | Open to Job Opportunities
 
-🌟 <b>About Me</b>
+🌟 <h4>About Me</h4>
 
 I'm a passionate and driven individual with a strong desire to break into the world of Python development. My journey began when I discovered Python's simplicity, versatility, and the endless possibilities it offers. Since then, I've been on a mission to expand my knowledge and become a skilled Junior Python Developer.
 
