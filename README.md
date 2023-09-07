@@ -26,7 +26,7 @@ In addition to my Python expertise, I'm well-versed in a variety of web developm
 
 <b>Content Management:</b> WordPress. I'm skilled in customizing and managing WordPress websites, ensuring they meet both functional and aesthetic requirements.
 
-☁️ <h3>AWS Certified Cloud Practitioner</h3>
+ <h3>☁️ AWS Certified Cloud Practitioner</h3>
 
 I hold the AWS Certified Cloud Practitioner (CLF-C01) certification, demonstrating my knowledge and understanding of cloud computing principles and AWS services.
 
