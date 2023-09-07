@@ -1,4 +1,4 @@
-👋 Hey there! I'm Kajetan
+👋 <h3>Hey there! I'm Kajetan</h3>
 
 👨‍💻 Aspiring Junior Python Developer | Open to Job Opportunities
 
@@ -13,6 +13,10 @@ I'm a passionate and driven individual with a strong desire to break into the wo
 <b>Django Framework:</b> I've dived into web development with Django, crafting web applications that are robust and maintainable. From building RESTful APIs to creating user-friendly interfaces, Django has been a valuable tool in my arsenal.
 
 <b>SQL:</b> Proficient in SQL, I can efficiently manage and query databases, ensuring that data is organized and accessible.
+
+☁️ <b>AWS Certified Cloud Practitioner</b>
+
+I hold the AWS Certified Cloud Practitioner (CLF-C01) certification, demonstrating my knowledge and understanding of cloud computing principles and AWS services.
 
 💪 <b>Adaptable Team Player</b>
 
